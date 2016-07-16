@@ -1,0 +1,26 @@
+"AppState"
+{
+"appID" "365590"
+"Universe" "1"
+"StateFlags" "12"
+"installdir" "steamapps"
+"LastUpdated" "2095437"
+"UpdateResult" "0"
+"SizeOnDisk" "3982379997"
+"buildid" "365590"
+"LastOwner" "1"
+"BytesToDownload" "0"
+"BytesDownloaded" "0"
+"UserConfig"
+{
+"name" "tom clancy's the division"
+"gameid" "365590"
+"language" "portuguese"
+"betakey" "public"
+}
+"MountedDepots"
+{
+"221" "3139631820230520823"
+"222" "7243428813874054245"
+}
+}
